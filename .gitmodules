@@ -30,4 +30,4 @@
 	url = https://github.com/JieSmart/kcptun
 [submodule "kcptun/go"]
 	path = kcptun/go
-	url = https://github.com/JieSmart/go
+	url = https://github.com/JieSmart/go/tree/shadowsocks
