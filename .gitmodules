@@ -27,7 +27,7 @@
 	branch = master
 [submodule "kcptun/kcptun"]
 	path = kcptun/kcptun
-	url = https://github.com/JieSmart/kcptun
+	url = https://github.com/JieSmart/kcptun.git
 [submodule "kcptun/go"]
 	path = kcptun/go
-	url = https://github.com/JieSmart/go
+	url = https://github.com/JieSmart/go.git
